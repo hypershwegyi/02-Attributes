@@ -1,0 +1,25 @@
+img {
+   width: 200px;
+   height: 200px;
+}
+
+
+
+
+
+
+section {
+   background-color: beige;
+}
+header {
+   color: coral;
+}
+#email {
+   background-color: brown;
+}
+#github {
+   background-color: burlywood;
+}
+#portfolio {
+   background-color: chartreuse;
+}
